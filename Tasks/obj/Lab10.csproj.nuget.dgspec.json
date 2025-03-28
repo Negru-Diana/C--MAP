@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\UBB INFO\\UBB INFO - ANUL II (2024-2025)\\Semestrul 3\\MAP (Metode Avansate de Programare)\\Laborator\\Laborator 10\\Lab10\\Lab10\\Lab10.csproj": {}
+  },
+  "projects": {
+    "D:\\UBB INFO\\UBB INFO - ANUL II (2024-2025)\\Semestrul 3\\MAP (Metode Avansate de Programare)\\Laborator\\Laborator 10\\Lab10\\Lab10\\Lab10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UBB INFO\\UBB INFO - ANUL II (2024-2025)\\Semestrul 3\\MAP (Metode Avansate de Programare)\\Laborator\\Laborator 10\\Lab10\\Lab10\\Lab10.csproj",
+        "projectName": "Lab10",
+        "projectPath": "D:\\UBB INFO\\UBB INFO - ANUL II (2024-2025)\\Semestrul 3\\MAP (Metode Avansate de Programare)\\Laborator\\Laborator 10\\Lab10\\Lab10\\Lab10.csproj",
+        "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
+        "outputPath": "D:\\UBB INFO\\UBB INFO - ANUL II (2024-2025)\\Semestrul 3\\MAP (Metode Avansate de Programare)\\Laborator\\Laborator 10\\Lab10\\Lab10\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\diana\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

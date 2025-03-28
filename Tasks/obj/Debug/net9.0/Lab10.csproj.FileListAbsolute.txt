@@ -1,0 +1,14 @@
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\bin\Debug\net9.0\Lab10.exe
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\bin\Debug\net9.0\Lab10.deps.json
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\bin\Debug\net9.0\Lab10.runtimeconfig.json
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\bin\Debug\net9.0\Lab10.dll
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\bin\Debug\net9.0\Lab10.pdb
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\obj\Debug\net9.0\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\obj\Debug\net9.0\Lab10.AssemblyInfoInputs.cache
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\obj\Debug\net9.0\Lab10.AssemblyInfo.cs
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\obj\Debug\net9.0\Lab10.csproj.CoreCompileInputs.cache
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\obj\Debug\net9.0\Lab10.dll
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\obj\Debug\net9.0\refint\Lab10.dll
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\obj\Debug\net9.0\Lab10.pdb
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\obj\Debug\net9.0\Lab10.genruntimeconfig.cache
+D:\UBB INFO\UBB INFO - ANUL II (2024-2025)\Semestrul 3\MAP (Metode Avansate de Programare)\Laborator\Laborator 10\Lab10\Lab10\obj\Debug\net9.0\ref\Lab10.dll
