@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H+KbaQIDrwk=",
+  "success": true,
+  "projectFilePath": "D:\\UBB INFO\\UBB INFO - ANUL II (2024-2025)\\Semestrul 3\\MAP (Metode Avansate de Programare)\\Laborator\\Laborator 11\\Jr_NBA_League_Romania\\Jr_NBA_League_Romania.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diana\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
